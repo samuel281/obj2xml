@@ -2,7 +2,7 @@
   "author": "samuel281 <samuel281@gmail.com>",
   "name": "obj2xml",
   "description": "javascript object to xml converter",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "homepage": "https://github.com/samuel281/obj2xml",
   "repository": {
     "url": "https://github.com/samuel281/obj2xml.git"
