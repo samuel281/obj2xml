@@ -1,0 +1,22 @@
+{
+  "name": "obj2xml",
+  "version": "0.2.1",
+  "authors": [
+    "samuel281 <samuel281@gmail.com>",
+    "Yuanfei Zhu <yuanfei@yahoo-inc.com>"
+  ],
+  "description": "javascript object to xml converter, in browser!",
+  "main": "lib/obj2xml.js",
+  "keywords": [
+    "xml"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/stranbird/obj2xml/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
