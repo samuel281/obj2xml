@@ -2,6 +2,7 @@
   "name": "bower-obj2xml",
   "version": "0.0.1",
   "authors": [
+    "samuel281 <samuel281@gmail.com>",
     "Yuanfei Zhu <yuanfei@yahoo-inc.com>"
   ],
   "description": "javascript object to xml converter, in browser!",
